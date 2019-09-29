@@ -1,2 +1,2 @@
-stash 2
+new
 
