@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 git
-=======
-github
->>>>>>> 41e7b4f0601ddf6b374cf508b3c566a17d770c6f
